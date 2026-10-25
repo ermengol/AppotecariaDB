@@ -10,6 +10,6 @@
     "nomenclator_facturacion": "2026-10-25",
     "nomenclator_prescripcion": "2026-10-24"
   },
-  "url": "https://github.com/ermengol/AppotecariaDB/releases/download/v2026-10-25/medicines-2026-10-25.sqlite.gz",
-  "version": "2026-10-25"
+  "url": "https://github.com/ermengol/AppotecariaDB/releases/download/v2026-10-25.1/medicines-2026-10-25.1.sqlite.gz",
+  "version": "2026-10-25.1"
 }
