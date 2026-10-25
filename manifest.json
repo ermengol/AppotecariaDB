@@ -1,0 +1,15 @@
+{
+  "min_app_version": "1.0.0",
+  "schema_version": 3,
+  "sha256": "7f75d828018bb5f872bed841a84592a4a8e8887c9f0e5a8490a45cffdaaea0b7",
+  "sha256_db": "ac72e18a3c0ac4eca03032ab4acb6aa25abfbaa0b5cea66b277e2a100454262d",
+  "size": 18335176,
+  "size_db": 64487424,
+  "sources": {
+    "cima": "2026-10-25",
+    "nomenclator_facturacion": "2026-10-25",
+    "nomenclator_prescripcion": "2026-10-24"
+  },
+  "url": "https://github.com/ermengol/AppotecariaDB/releases/download/v2026-10-25/medicines-2026-10-25.sqlite.gz",
+  "version": "2026-10-25"
+}
